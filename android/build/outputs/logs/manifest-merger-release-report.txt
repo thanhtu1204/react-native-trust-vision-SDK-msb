@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:3:11-37
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		ADDED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/tung/Desktop/backup_build_store/1/MB-Retail/node_modules/react-native-trust-vision-SDK/android/src/main/AndroidManifest.xml

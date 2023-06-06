@@ -1,0 +1,38 @@
+{
+  "_from": "git+https://github.com/tsocial/react-native-trust-vision-SDK.git#msb_2.0.16",
+  "_id": "react-native-trust-vision-SDK@2.0.16",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-trust-vision-SDK",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-trust-vision-SDK@git+https://github.com/tsocial/react-native-trust-vision-SDK.git#msb_2.0.16",
+    "name": "react-native-trust-vision-SDK",
+    "escapedName": "react-native-trust-vision-SDK",
+    "rawSpec": "git+https://github.com/tsocial/react-native-trust-vision-SDK.git#msb_2.0.16",
+    "saveSpec": "git+https://github.com/tsocial/react-native-trust-vision-SDK.git#msb_2.0.16",
+    "fetchSpec": "https://github.com/tsocial/react-native-trust-vision-SDK.git",
+    "gitCommittish": "msb_2.0.16"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tsocial/react-native-trust-vision-SDK.git#179a467ab512422601b9326e1857e121a5fa8697",
+  "_spec": "react-native-trust-vision-SDK@git+https://github.com/tsocial/react-native-trust-vision-SDK.git#msb_2.0.16",
+  "_where": "/Users/tung/Desktop/backup_build_store/1/MB-Retail",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-trust-vision-SDK",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.16"
+}
